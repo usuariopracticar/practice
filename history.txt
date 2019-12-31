@@ -2,3 +2,5 @@ Julio Cesar Santaman Cruz tiene 19 años, le gusta la programación, ver anime,
 jugar videojuegos, escuchar raps relacionado con anime, videojuegos, temas en particular.
 
 Estamos aprendiendo a usar git de forma profesional. :D
+
+Agregando la palabra Git.
