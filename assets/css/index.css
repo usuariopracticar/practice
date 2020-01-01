@@ -1,3 +1,17 @@
-h1 {
-  text-align: center;
+.container {
+  border: 1px solid #DDD;
+  max-width: 960px;
+  margin: auto;
+  padding: 0 10px 10px 10px;
+  box-shadow: 3px 3px 5px #000;
+}
+
+.content {
+  background-color: #EEEEEE;
+  padding: 10px;
+}
+
+header h1 {
+  border-bottom: 1px dotted #000;
+  
 }
