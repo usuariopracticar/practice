@@ -19,6 +19,7 @@ header h1 {
   margin: 0%;
   padding: 10px;
   box-shadow: 3px 3px 10px #303F9F;
+  text-align: center;
 }
 
 span {
